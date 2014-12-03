@@ -13,9 +13,6 @@
       "version_requirement": ">= 2.3.0"
     }
   ],
-  "types": [
-
-  ],
   "checksums": {
     "CHANGELOG": "d26396b76fddd33440773f042a9b07e6",
     "Gemfile": "6ce44488b00c2048dc62d35ddafb469c",
